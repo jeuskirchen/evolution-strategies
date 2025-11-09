@@ -1,0 +1,13 @@
+# gymnasium
+jupyterlab
+pandas
+numpy
+torch
+matplotlib
+seaborn
+tqdm
+pygame
+# plotly
+imageio
+jax 
+scikit-learn
